@@ -1,14 +1,14 @@
 # 💫 About Me
 🔭 I’m currently working on **Kirana OS**  
 🌱 I’m currently learning new technologies and tools  
+💡 I like learning and exploring new technologies  
+🔐 I’m interested in cybersecurity  
 🎓 I’m currently pursuing **BSc CSIT**  
 🏫 Studying at **Birendra Multiple Campus**
 
 ---
 
-
 🌐 **Portfolio Website** → https://hemantabhattarai.com.np/
-
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61552469651605)
@@ -35,11 +35,25 @@
 
 ---
 
+# 📊 GitHub Stats
+![](https://github-readme-stats.shion.dev/api?username=HemantaBhattarai5i&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=HemantaBhattarai5i&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=HemantaBhattarai5i&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=HemantaBhattarai5i&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
 ## 📊 GitHub Info (Stable Badges)
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-Tracking-blue?style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/HemantaBhattaraiGI?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/HemantaBhattaraiGI?style=for-the-badge)
-![Repos](https://img.shields.io/github/repos/HemantaBhattaraiGI?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/HemantaBhattarai5i?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/HemantaBhattarai5i?style=for-the-badge)
+![Repos](https://img.shields.io/github/repos/HemantaBhattarai5i?style=for-the-badge)
 
 ---
 
@@ -51,6 +65,8 @@
 ---
 
 ## 👀 Visitor Counter
+![](https://komarev.com/ghpvc/?username=HemantaBhattarai5i&icon=0&color=0)
+
 ![Visitors](https://img.shields.io/badge/Visitors-Welcome-brightgreen?style=for-the-badge)
 
 ---
